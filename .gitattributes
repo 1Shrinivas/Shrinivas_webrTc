@@ -14,3 +14,6 @@
 # Binary files should be left untouched.
 *.png binary
 *.jpg binary
+*.gif binary
+*.ico binary
+*.pdf binary
